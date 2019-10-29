@@ -1,5 +1,4 @@
 ---
 layout: slide
 title: "Welcome to our slide deck!"
----as
-Use the right arrow to begin!
+---
