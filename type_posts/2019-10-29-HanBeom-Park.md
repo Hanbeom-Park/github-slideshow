@@ -1,2 +1,4 @@
-layout: silde
-title: "welcome to our second slide"
+---
+layout: slide
+title: "Welcome to our slide deck!"
+---
